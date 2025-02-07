@@ -1,0 +1,5 @@
+model_1 = Pearson: 0.72589
+model_2 = Pearson: 0.74844
+model_3 = Pearson: 0.84044
+model_4 = Pearson: 0.71988
+model_5 = Pearson: 0.73223
