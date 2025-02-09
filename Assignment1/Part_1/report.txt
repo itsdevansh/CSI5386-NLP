@@ -1,0 +1,128 @@
+### (a) First 20 lines of Tokenized Output (output.txt):
+CO-BRANDING
+AND
+ADVERTISING
+AGREEMENT
+THIS
+CO-BRANDING
+AND
+ADVERTISING
+AGREEMENT
+(
+the
+``
+Agreement
+''
+)
+is
+made
+as
+of
+June
+
+### (b) Token and Type Statistics:
+Total Tokens: 4,789,386
+Unique Tokens: 58,691
+Type/Token Ratio: 0.012254
+
+### (c) First 20 Lines from Token Frequency File (tokens.txt):
+,	240576
+the	239941
+of	151491
+to	127054
+and	125196
+.	117446
+or	102674
+)	78092
+(	75436
+in	73941
+*	67765
+any	58848
+--	58711
+shall	48423
+a	46208
+by	41853
+be	39157
+Agreement	37007
+for	35430
+this	35215
+
+### (d) Tokens Appearing Only Once:
+24,151 tokens appear only once in the corpus.
+
+### (e) Word Count and Lexical Diversity:
+Total Words (Excluding Punctuation): 3,810,668
+Unique Words: 37,022
+Type/Token Ratio (Words Only): 0.009715
+
+Top 20 Most Frequent Words:
+the: 239941
+of: 151491
+to: 127054
+and: 125196
+or: 102674
+in: 73941
+any: 58848
+shall: 48423
+a: 46208
+by: 41853
+be: 39157
+Agreement: 37007
+for: 35430
+this: 35215
+such: 34814
+with: 32571
+as: 31625
+that: 27281
+other: 25137
+is: 21533
+
+### (f) Content Words and Lexical Density:
+Total Content Words (Excluding Stopwords): 2,149,290
+Unique Content Words: 36,666
+Lexical Density: 0.017060
+
+Top 20 Most Frequent Content Words:
+shall: 48423
+Agreement: 37007
+Party: 20520
+may: 13160
+Section: 12355
+party: 11574
+Company: 10848
+including: 9582
+Product: 8745
+use: 7968
+provided: 7868
+Parties: 7684
+time: 7425
+set: 6806
+written: 6732
+applicable: 6471
+information: 6330
+forth: 6238
+right: 6216
+rights: 6191
+
+### (g) Most Frequent Bigrams:
+set forth: 6018
+Agreement shall: 3505
+Confidential Information: 2868
+written notice: 2371
+Effective Date: 2262
+Party shall: 2230
+third party: 2143
+Third Party: 1916
+terms conditions: 1902
+prior written: 1807
+forth Section: 1687
+shall deemed: 1679
+without limitation: 1657
+time time: 1656
+shall mean: 1630
+Intellectual Property: 1626
+including without: 1462
+shall provide: 1430
+shall right: 1357
+written consent: 1323
+
